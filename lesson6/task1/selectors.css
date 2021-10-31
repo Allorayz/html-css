@@ -17,6 +17,6 @@ li {
 [href*='www'] {
   color: green;
 }
-[title*='popular'] {
-  font-size: 24px;
+[href][title*='popular'] {
+  font-size: 50px;
 }
