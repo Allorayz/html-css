@@ -18,5 +18,5 @@ li {
   color: green;
 }
 [href][title*='popular'] {
-  font-size: 50px;
+  font-size: 24px;
 }
