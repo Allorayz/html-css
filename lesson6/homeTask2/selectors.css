@@ -1,4 +1,4 @@
-section.already-learned ol h3 {
+section.already-learned ol {
   background-color: green;
   color: white;
 }
@@ -6,7 +6,7 @@ section.already-learned code {
   background-color: orange;
 }
 
-section.to-be-learned ol h3 {
+section.to-be-learned ol {
   background-color: orange;
   color: green;
 }
