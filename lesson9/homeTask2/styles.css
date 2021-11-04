@@ -6,17 +6,18 @@
   height: 40px;
   background-color: darkturquoise;
   width: 100%;
+  z-index: 1;
 }
 
 .navigation {
-  float: left;
   color: white;
-  line-height: 10px;
 }
 
 .nav-item {
-  float: left;
   margin-left: 16px;
+  float: left;
+  line-height: 5px;
+  list-style-type: none;
 }
 .content {
   height: 5000px;
