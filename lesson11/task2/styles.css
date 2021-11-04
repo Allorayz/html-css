@@ -1,33 +1,39 @@
 * {
   box-sizing: border-box;
 }
-div {
-  width: 150px;
-  height: 100px;
-  margin: 16px;
-}
 
 .articles {
   display: flex;
-  width: 100%;
 }
 
 .visible-text {
-  overflow: visible;
+  width: 150px;
+  height: 100px;
+  margin: 16px;
   background-color: beige;
+  overflow: visible;
 }
 
 .cropped {
-  overflow: hidden;
+  width: 150px;
+  height: 100px;
+  margin: 16px;
   background-color: beige;
+  overflow: hidden;
 }
 
 .both-scrolls {
-  overflow: scroll;
+  width: 150px;
+  height: 100px;
+  margin: 16px;
   background-color: beige;
+  overflow: scroll;
 }
 
 .vertical-scroll {
-  overflow: auto;
+  width: 150px;
+  height: 100px;
+  margin: 16px;
   background-color: beige;
+  overflow: auto;
 }
