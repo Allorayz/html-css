@@ -5,6 +5,13 @@
   width: 100%;
   z-index: 1;
 }
+.navigation {
+  float: left;
+  height: 40px;
+}
+.nav-list {
+  height: 40px;
+}
 
 .nav-item {
   height: 40px;
