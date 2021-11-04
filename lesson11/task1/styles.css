@@ -1,11 +1,11 @@
-div:nth-child(1) {
+.container div:first-of-type {
   display: none;
 }
 
-div:nth-child(2) {
+.container:nth-child(1) {
   visibility: hidden;
 }
 
-div:nth-child(3) {
+.container div:last-of-type {
   visibility: visible;
 }
