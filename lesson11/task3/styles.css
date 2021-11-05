@@ -13,7 +13,7 @@
   cursor: pointer;
 }
 
-.dropdown {
+.dropdown:hover {
   opacity: 1;
 }
 
