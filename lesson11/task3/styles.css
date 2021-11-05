@@ -14,6 +14,10 @@
   cursor: pointer;
 }
 
+.dropdown {
+  opacity: 1;
+}
+
 .menu-list {
   position: absolute;
   left: 0px;
@@ -37,6 +41,5 @@
 }
 
 .dropdown:hover .menu-list {
-  opacity: 1;
   display: block;
 }
