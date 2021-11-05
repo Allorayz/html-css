@@ -5,9 +5,11 @@ body {
 h1 {
   font-size: 74px;
   text-align: center;
+  width: 50%;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  margin: auto;
 }
 
 div {
