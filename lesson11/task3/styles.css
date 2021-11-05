@@ -1,8 +1,10 @@
+* {
+  box-sizing: border-box;
+}
 .dropdown {
   display: inline-block;
   margin: 16px;
   padding: 16px;
-
   font-size: 16px;
   opacity: 0.8;
 }
@@ -19,7 +21,7 @@
 
 .menu-button {
   background-color: darkgreen;
-
+  color: white;
   padding: 16px;
 }
 
