@@ -1,4 +1,7 @@
-.rectangle {
+* {
+  box-sizing: border-box;
+}
+div.rectangle {
   background-color: blueviolet;
 }
 
