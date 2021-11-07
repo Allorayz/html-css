@@ -13,11 +13,14 @@
   background-repeat: no-repeat;
 } */
 
+.image {
+  margin: 16px;
+}
+
 .image:nth-child(1) {
   display: inline-block;
   width: 200px;
   height: 200px;
-  margin: 16px;
   border: 1px dotted gray;
   background-size: 100%;
   background-position: center;
@@ -28,7 +31,6 @@
   display: inline-block;
   width: 200px;
   height: 200px;
-  margin: 16px;
   border: 1px dotted gray;
   background-size: 100%;
   background-position: center;
@@ -39,7 +41,6 @@
   display: inline-block;
   width: 200px;
   height: 200px;
-  margin: 16px;
   border: 1px dotted gray;
   background-size: contain;
   background-position: center;
