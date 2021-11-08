@@ -38,7 +38,6 @@
   border: 1px solid #808080;
   padding: 4px;
   outline: none;
-  margin-top: 4px;
 }
 
 .submit-button {
@@ -56,5 +55,7 @@
 }
 
 .form-control {
+  margin-top: 4px;
+
   margin-bottom: 8px;
 }
