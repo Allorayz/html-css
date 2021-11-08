@@ -5,8 +5,6 @@
 .page {
   position: relative;
   background-color: bisque;
-  width: 100vw;
-  height: 100vw;
 }
 
 html {
@@ -15,7 +13,7 @@ html {
 
 .login-form {
   position: absolute;
-  top: calc(50% - 25px);
+  top: calc(50% + 100px);
   left: calc(50% - 100px);
   display: inline-block;
   background-color: aqua;
@@ -38,8 +36,8 @@ html {
   border: 1px solid #808080;
   padding: 4px;
   outline: none;
-  margin-bottom: 4px;
-  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-top: 4px;
 }
 
 /* .form-label {
