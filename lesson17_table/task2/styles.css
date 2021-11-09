@@ -22,7 +22,10 @@ th {
   padding: 4px;
 }
 
-th,
+th {
+  line-height: 30px;
+}
+
 td {
   line-height: 31px;
 }
