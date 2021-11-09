@@ -17,4 +17,5 @@ th {
 th,
 td {
   text-align: right;
+  padding: 4px;
 }
