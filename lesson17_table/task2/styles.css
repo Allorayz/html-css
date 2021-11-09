@@ -18,14 +18,16 @@ th {
   border-collapse: collapse;
 }
 
-td,
-th {
+td {
   padding: 4px;
   text-align: right;
   line-height: 40px;
 }
 
 th {
+  line-height: 40px;
+  padding: 4px;
+  text-align: right;
   background-color: aqua;
 }
 
