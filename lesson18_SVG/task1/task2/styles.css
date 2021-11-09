@@ -1,0 +1,29 @@
+.button {
+  width: 200px;
+  height: 50px;
+  margin: 64px;
+  line-height: 50px;
+  background-color: coral;
+  border-radius: 4px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: darkcyan;
+}
+
+.bird-icon {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  fill: white;
+}
+
+.bird-icon:hover {
+  fill: green;
+}
