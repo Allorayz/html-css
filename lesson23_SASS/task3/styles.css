@@ -18,7 +18,7 @@ nav {
 }
 .menu__item {
   list-style-type: none;
-  padding: 0px;
+  padding: 0 8px;
   text-align: center;
 }
 .menu__item:hover {
