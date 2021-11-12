@@ -46,7 +46,6 @@ span {
     flex-direction: row;
   }
 }
-
 @media screen and (min-width: 900px) {
   .container {
     flex-direction: row;
